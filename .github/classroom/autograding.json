@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "Test",
+      "name": "Sum1",
       "setup": "",
       "run": "./main",
       "input": "5\r\n4",
